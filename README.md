@@ -1,16 +1,8 @@
-# myguard
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+MyGuard ဆိုတာကတော့ BeMyEye ကိုအခြေခံပြီး developလုပ်
+ထားတဲ့ appဖစိပါတယ်ဗျ။ register လုပ်ဆဲ့အချိန်မှာ Trust
+Contact သုံးခုပေးရမှာ ဖစ်ပီး အန္တာရာယ်နဲ့ ကြုံတွေ့၍
+Alarm button ကိုတစ်ခါနှိပ်ရင် အနီးရှိ Usersများနှင့် trust 
+Contactsကို I'm in danger ဆိုတဲ့ messageနဲ့ location 
+ကိုပို့ပေးမှာပါဗျ.အကယ်၍ နှစ်ချက်နှိပ်ရင်တော့ Trust contact
+သုံးခုကို ဖုန်းဆက်ပေးပါတယ်။ ကိုယိ့အနီးနားတွင် အန္တရာယ်ကျရောက်နေသူ
+ရှိလျှင်လည်း ကိုယ့်appတွင် notiတက်ပေးပါတယ်။
